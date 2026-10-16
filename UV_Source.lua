@@ -22,7 +22,7 @@
 -- ============================================================
 
 local UV = {}
-UV.Version = "1.0.0-DECODE-PLACEHOLDER"
+UV.Version = "v2.0.0-DECODE-PLACEHOLDER"
 UV.Name = "Unnamed Void"
 UV.Author = "Decoded by placeholder"
 UV.Build = "NOT_WORKABLE"
